@@ -51,6 +51,7 @@ body{
     border: none;
     font-weight: 500;
     font-size: 12px;
+    cursor: pointer;
 }
 
 #button2{
@@ -60,6 +61,7 @@ body{
     margin-left: 10px;
     border: solid 1px black;
     background-color: transparent;
+    cursor: pointer;
 }
 
 
@@ -73,6 +75,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
+    cursor: pointer;
     
 }
 
