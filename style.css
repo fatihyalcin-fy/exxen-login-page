@@ -1,0 +1,135 @@
+header{
+    background-color: #ffcb03;
+    height: auto;
+    box-sizing: content-box;
+    height: 100px;
+    display: flex;
+    width: 100%;
+}
+
+.header1{
+    width: 16.50%;
+    display: inline-block;
+}
+
+.header2{
+    width: 67%;
+    display: inline-block;
+}
+
+.header3{
+    width: 16.50%;
+    display: inline-block;
+}
+
+body{
+    background-color: black;
+    margin: 0px;
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+
+}
+
+.image{
+    display: inline-block;
+    float: left;
+    margin-top: 15px;
+}
+
+.button{
+    display: inline-block;
+    float: right;
+    margin-top: 10px;
+}
+
+#button1{
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+    width: auto;
+    color: #ffcb03;
+    background-color: black;
+    border: none;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+#button2{
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+    width: auto;
+    margin-left: 10px;
+    border: solid 1px black;
+    background-color: transparent;
+}
+
+
+
+#sign,
+#mobile{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+#email,
+#password{
+    width: 92%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 0px;
+}
+
+.form{
+    color: #ffcb03;
+}
+
+#sign{
+    background-color: #ffcb03;
+    border: none;
+    font-weight: 600;
+}
+
+#mobile{
+    background-color: #505050;
+    color: white;
+    border: none;
+    font-weight: 600;
+}
+
+#remember{
+    cursor: pointer;
+}
+
+.formcon{
+    background-color: #111111;
+    margin-top: 100px;
+    width: 300px;
+    padding: 40px;
+    
+}
+
+.form0{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    color: white;
+    display: block;
+    float: right;
+}
+
+#remember{
+    margin-top: 8px;
+    margin-bottom: 2px;
+}
